@@ -1,12 +1,11 @@
 Package: testpackage
-Title: What the Package Does (One Line, Title Case)
+Title: HW_06 package
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Evan", "Malkin", , "em1358a@student.american.edu", role = c("Author", "Creator"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: Made for DATA-413 with Professor Ressler.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
